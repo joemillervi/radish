@@ -21,7 +21,11 @@ app.get('/', async (req, res) => {
   /* handlebars data here */
     helloWorld: [
       'hello',
-      'world'
+      'world',
+      'i',
+      'am',
+      'dog',
+      'radish'
     ]
   })
 })
